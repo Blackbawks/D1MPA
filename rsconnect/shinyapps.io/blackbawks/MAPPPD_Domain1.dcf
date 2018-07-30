@@ -1,0 +1,12 @@
+name: MAPPPD_Domain1
+title: MAPPPD_Domain1
+username:
+account: blackbawks
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 391446
+bundleId: 1508054
+url: https://blackbawks.shinyapps.io/MAPPPD_Domain1/
+when: 1532985018.85436
+asMultiple: FALSE
+asStatic: FALSE
